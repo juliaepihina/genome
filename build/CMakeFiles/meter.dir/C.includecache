@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/gorshkov_aa/tester/meter/ssw.c
+emmintrin.h
+-
+stdint.h
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+math.h
+-
+ssw.h
+/mnt/c/Users/gorshkov_aa/tester/meter/ssw.h
+
+/mnt/c/Users/gorshkov_aa/tester/meter/ssw.h
+stdio.h
+-
+stdint.h
+-
+string.h
+-
+emmintrin.h
+-
+

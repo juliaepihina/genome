@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/gorshkov_aa/tester/solver/main.cpp
+utility.h
+/mnt/c/Users/gorshkov_aa/tester/solver/utility.h
+
+/mnt/c/Users/gorshkov_aa/tester/solver/simulated_annealing.cpp
+simulated_annealing.h
+/mnt/c/Users/gorshkov_aa/tester/solver/simulated_annealing.h
+random
+-
+
+/mnt/c/Users/gorshkov_aa/tester/solver/simulated_annealing.h
+ctime
+-
+vector
+-
+string
+-
+cmath
+-
+numeric
+-
+algorithm
+-
+iostream
+-
+
+/mnt/c/Users/gorshkov_aa/tester/solver/utility.cpp
+utility.h
+/mnt/c/Users/gorshkov_aa/tester/solver/utility.h
+fstream
+-
+
+/mnt/c/Users/gorshkov_aa/tester/solver/utility.h
+simulated_annealing.h
+/mnt/c/Users/gorshkov_aa/tester/solver/simulated_annealing.h
+

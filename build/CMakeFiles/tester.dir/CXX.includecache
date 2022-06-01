@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/gorshkov_aa/tester/tester/assembly.h
+utility.h
+/mnt/c/Users/gorshkov_aa/tester/tester/utility.h
+
+/mnt/c/Users/gorshkov_aa/tester/tester/main.cpp
+sequencing.h
+/mnt/c/Users/gorshkov_aa/tester/tester/sequencing.h
+assembly.h
+/mnt/c/Users/gorshkov_aa/tester/tester/assembly.h
+
+/mnt/c/Users/gorshkov_aa/tester/tester/sequencing.h
+utility.h
+/mnt/c/Users/gorshkov_aa/tester/tester/utility.h
+
+/mnt/c/Users/gorshkov_aa/tester/tester/utility.h
+string
+-
+iostream
+-
+vector
+-
+fstream
+-
+cstdlib
+-
+

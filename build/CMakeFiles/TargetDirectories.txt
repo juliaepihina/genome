@@ -1,0 +1,5 @@
+/mnt/c/Users/gorshkov_aa/tester/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/gorshkov_aa/tester/build/CMakeFiles/meter.dir
+/mnt/c/Users/gorshkov_aa/tester/build/CMakeFiles/solver.dir
+/mnt/c/Users/gorshkov_aa/tester/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/gorshkov_aa/tester/build/CMakeFiles/tester.dir
